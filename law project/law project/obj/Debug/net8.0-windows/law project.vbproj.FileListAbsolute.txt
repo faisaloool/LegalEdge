@@ -1,0 +1,21 @@
+C:\Users\albab\source\repos\law project\law project\bin\Debug\net8.0-windows\law project.exe
+C:\Users\albab\source\repos\law project\law project\bin\Debug\net8.0-windows\law project.deps.json
+C:\Users\albab\source\repos\law project\law project\bin\Debug\net8.0-windows\law project.runtimeconfig.json
+C:\Users\albab\source\repos\law project\law project\bin\Debug\net8.0-windows\law project.dll
+C:\Users\albab\source\repos\law project\law project\bin\Debug\net8.0-windows\law project.pdb
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law_project.Form1.resources
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law project.vbproj.GenerateResource.cache
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law project.AssemblyInfoInputs.cache
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law project.AssemblyInfo.vb
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law project.vbproj.CoreCompileInputs.cache
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law project.dll
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\refint\law project.dll
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law project.pdb
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law project.genruntimeconfig.cache
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\ref\law project.dll
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law_project.Resources.resources
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law_project.Form2.resources
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law_project.Form3.resources
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law_project.Form4.resources
+C:\Users\albab\source\repos\law project\law project\obj\Debug\net8.0-windows\law_project.Form5.resources
